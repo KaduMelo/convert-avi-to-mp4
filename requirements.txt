@@ -1,0 +1,5 @@
+# Este projeto usa apenas a biblioteca padrão do Python (argparse, subprocess,
+# shutil, pathlib) — nenhuma dependência externa é necessária.
+#
+# O único requisito real é o binário `ffmpeg` instalado no sistema (fora do venv):
+#   sudo apt install ffmpeg
